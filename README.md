@@ -52,4 +52,27 @@ I am an Android Developer <img src="https://media4.giphy.com/media/llarwdtFqG63I
 
 
 
+#### Мотиватор
+- :zap: Более 2 тыс. скачиваний в Google Play.
+
+- :zap: https://play.google.com/store/apps/details?id=com.roni.motivation
+
+<div>
+  <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/foto3.png" title="Coroutines" **alt="Coroutines" width="450" height="300"/>
+  <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/foto4.png" title="Room" **alt="Room" width="450" height="300"/>
+</div>
+
+
+#### Пресс за 30 дней
+- :zap: Более 6 тыс. скачиваний в Google Play.
+
+- :zap: https://play.google.com/store/apps/details?id=com.pressin30days.press
+
+<div>
+  <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/foto5.png" title="Coroutines" **alt="Coroutines" width="450" height="300"/>
+  <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/foto6.png" title="Room" **alt="Room" width="450" height="300"/>
+</div>
+
+
+
 
