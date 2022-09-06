@@ -11,8 +11,8 @@
 </div>
 
 
-### :man_technologist:About Me :
-I am an Android Developer <img src="https://media4.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif?cid=ecf05e47bams9uutqs2y21v0q1097o3ow3gu7llif1nw1ojn&rid=giphy.gif" width="50">
+### :man_technologist:Обо мне :
+Привет, я - Android разработчик <img src="https://media4.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif?cid=ecf05e47bams9uutqs2y21v0q1097o3ow3gu7llif1nw1ojn&rid=giphy.gif" width="50">
 
 - :zap: Больше двух лет в Android разработке.
 
