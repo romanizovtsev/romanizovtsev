@@ -8,7 +8,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-</div>![image](https://user-images.githubusercontent.com/71093955/188739342-dab8b76d-923a-4d52-af54-3d33bd413f63.jpeg)
+</div>
 
 
 ### :man_technologist:About Me :
@@ -36,6 +36,20 @@ I am an Android Developer <img src="https://media4.giphy.com/media/llarwdtFqG63I
   <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/coroutines.png" title="Coroutines" **alt="Coroutines" width="120" height="40"/>
   <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/room.png" title="Room" **alt="Room" width="120" height="40"/>
 </div>
+
+---
+### 📱 Мои приложения: 
+
+#### Изучение английского языка
+- :zap: Более 6 тыс. скачиваний в Google Play.
+
+- :zap: https://play.google.com/store/apps/details?id=com.roni.english
+
+<div>
+  <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/foto1.png" title="Coroutines" **alt="Coroutines" width="450" height="300"/>
+  <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/foto2.png" title="Room" **alt="Room" width="450" height="300"/>
+</div>
+
 
 
 
