@@ -96,7 +96,8 @@
 ##### Задание и результат:
 
 <div>
-<img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task1.png" width="600"/>
+<img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task1.png" width="300"/>
+<img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task1.gif" width="300"/>
 </div>
 ##### Стэк:
 Recycler view, MVVM, Koin DI, Kotlin Coroutines
