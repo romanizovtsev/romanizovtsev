@@ -74,5 +74,15 @@
 </div>
 
 
+#### Правда или действие
+- :zap: Более 460 тыс. скачиваний в Google Play.
+
+- :zap: https://play.google.com/store/apps/details?id=com.ronimdev.truthordare
+
+<div>
+  <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/foto8.png" title="Coroutines" **alt="Coroutines" width="450" height="300"/>
+  <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/foto9.png" title="Room" **alt="Room" width="450" height="300"/>
+</div>
+
 
 
