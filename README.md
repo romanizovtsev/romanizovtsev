@@ -99,6 +99,7 @@
 <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task1.png" width="250"/>
 <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task1.gif" width="200"/>
 </div>
+
 ##### Стэк:
 Recycler view, MVVM, Koin DI, Kotlin Coroutines
 
@@ -113,8 +114,27 @@ Recycler view, MVVM, Koin DI, Kotlin Coroutines
 <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task2.png" width="400"/>
 <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task2_1.png" width="200"/>
 </div>
+
 ##### Стэк:
 Recycler view, MVVM, retrofit
+
+#### Главный экран DoDo
+- :zap: Java
+- :zap: Репозиторий: https://github.com/romanizovtsev/TestTask
+
+##### Задание и результат:
+Был дан макет на Фигме. Реализовать главный экран приложения ДоДо.
+Api на свой выбор. Архитектура: MVVM. Одна из основных задач: реализовать CollapsingToolbar. Баннеры можно было захардкодить.
+БД опционально. 
+
+
+<div>
+<img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task3_1.png" width="200"/>
+<img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task3_2.png" width="200"/>
+</div>
+
+##### Стэк:
+Recycler view, MVVM, retrofit, sql lite
 
 
 
