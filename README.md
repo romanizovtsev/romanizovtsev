@@ -96,8 +96,22 @@
 ##### Задание и результат:
 
 <div>
-<img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task1.png" width="300"/>
-<img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task1.gif" width="300"/>
+<img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task1.png" width="250"/>
+<img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task1.gif" width="200"/>
+</div>
+##### Стэк:
+Recycler view, MVVM, Koin DI, Kotlin Coroutines
+
+
+#### Список фильмов
+
+- :zap: Репозиторий: https://github.com/romanizovtsev/TestTaskFilms
+
+##### Задание и результат:
+
+<div>
+<img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task2.png" width="250"/>
+<img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task2.gif" width="200"/>
 </div>
 ##### Стэк:
 Recycler view, MVVM, Koin DI, Kotlin Coroutines
