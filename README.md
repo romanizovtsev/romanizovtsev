@@ -88,3 +88,18 @@
 ---
 ### 👷‍♀️: Тестовые задания:
 
+
+#### Бесконечный список простых чисел и чисел Фибоначчи
+
+- :zap: Репозиторий: https://github.com/romanizovtsev/TaskTest2
+
+##### Задание и результат:
+<div>
+  <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/tasktest1_1.jpg" title="Coroutines" **alt="Coroutines" width="300" height="600"/>
+  <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/tasktest1_2.gif" title="Coroutines" **alt="Coroutines" width="300" height="600"/>
+</div>
+##### Стэк:
+Recycler view, MVVM, Koin DI
+
+
+
