@@ -90,7 +90,7 @@
 
 
 #### Бесконечный список простых чисел и чисел Фибоначчи
-
+- :zap: Kotlin
 - :zap: Репозиторий: https://github.com/romanizovtsev/TaskTest2
 
 ##### Задание и результат:
@@ -104,17 +104,17 @@ Recycler view, MVVM, Koin DI, Kotlin Coroutines
 
 
 #### Список фильмов
-
+- :zap: Kotlin
 - :zap: Репозиторий: https://github.com/romanizovtsev/TestTaskFilms
 
 ##### Задание и результат:
 
 <div>
-<img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task2.png" width="250"/>
+<img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task2.png" width="400"/>
 <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/task2.gif" width="200"/>
 </div>
 ##### Стэк:
-Recycler view, MVVM, Koin DI, Kotlin Coroutines
+Recycler view, MVVM, retrofit
 
 
 
