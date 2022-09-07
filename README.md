@@ -81,7 +81,7 @@
 
 <div>
   <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/foto8.png" title="Coroutines" **alt="Coroutines" width="450" height="300"/>
-  <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/foto9.png" title="Room" **alt="Room" width="450" height="300"/>
+  <img src="https://github.com/romanizovtsev/romanizovtsev/blob/main/foto10.png" title="Room" **alt="Room" width="450" height="300"/>
 </div>
 
 
