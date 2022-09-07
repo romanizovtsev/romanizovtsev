@@ -120,7 +120,7 @@ Recycler view, MVVM, retrofit
 
 #### Главный экран DoDo
 - :zap: Java
-- :zap: Репозиторий: https://github.com/romanizovtsev/TestTask
+- :zap: Репозиторий: https://github.com/romanizovtsev/TestTaskPizza
 
 ##### Задание и результат:
 Был дан макет на Фигме. Реализовать главный экран приложения ДоДо.
