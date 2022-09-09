@@ -116,7 +116,7 @@ Recycler view, MVVM, Koin DI, Kotlin Coroutines
 </div>
 
 ##### Стэк:
-Recycler view, MVVM, retrofit
+Recycler view, MVVM, retrofit, Dagger2, Kotlin Coroutines
 
 #### Главный экран DoDo
 - :zap: Java
