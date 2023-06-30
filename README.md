@@ -75,7 +75,7 @@
 
 
 #### Правда или действие
-- :zap: Более 460 тыс. скачиваний в Google Play.
+- :zap: Более 500 тыс. скачиваний в Google Play.
 
 - :zap: https://play.google.com/store/apps/details?id=com.ronimdev.truthordare
 
