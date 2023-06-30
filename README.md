@@ -14,11 +14,11 @@
 ### :man_technologist:Обо мне :
 Привет, я - Android разработчик <img src="https://media4.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif?cid=ecf05e47bams9uutqs2y21v0q1097o3ow3gu7llif1nw1ojn&rid=giphy.gif" width="50">
 
-- :zap: Больше двух лет в Android разработке.
+- :zap: Больше трех лет в Android разработке.
 
-- :zap: 4 собственных монетизируемых приложения в Google Play.
+- :zap: 4 собственных монетизируемых приложения в Google Play и RuStore.
 
-- :zap: Больше 460 тыс. скачиваний в Google Play.
+- :zap: Больше 500 тыс. скачиваний в Google Play.
 
 - :mailbox: Telegram: @romaniz
 ---
